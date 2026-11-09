@@ -29,7 +29,9 @@ identity:
   mandate: >
     Own the full lifecycle — architecture, code review, infra, release —
     not just the ticket in front of me.
-  milestone: National Winner, Smart India Hackathon 2025 (ISRO)
+  milestones:
+    - National Winner, Smart India Hackathon 2025 (ISRO)
+    - Runner-up, Hackwave 3.0 (national-level hackathon)
 ```
 
 <br/>
