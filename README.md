@@ -115,10 +115,11 @@ achievements:
 
 ### `/dev/metrics`
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tanisha-devs&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=C1440E&icon_color=C1440E&text_color=e7e3ef&ring_color=C1440E" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha-devs&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=C1440E&text_color=e7e3ef&langs_count=8" />
-
 <img height="165" src="https://streak-stats.demolab.com?user=tanisha-devs&hide_border=true&background=0d0d0d&ring=C1440E&fire=C1440E&currStreakLabel=C1440E&sideLabels=e7e3ef&currStreakNum=e7e3ef&sideNums=e7e3ef&dates=9a9a9a&stroke=0d0d0d" />
+
+<br/>
+
+<img width="90%" src="https://ghchart.rshah.org/C1440E/tanisha-devs" alt="contribution graph" />
 
 </div>
 
